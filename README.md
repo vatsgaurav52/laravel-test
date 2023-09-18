@@ -22,4 +22,5 @@ npm run dev
 
 Admin Details: 
 admin@gmail.com
+
 123456
